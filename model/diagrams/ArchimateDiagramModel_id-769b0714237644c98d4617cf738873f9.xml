@@ -1,4 +1,18 @@
 <archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Default View"
-    id="id-769b0714237644c98d4617cf738873f9"/>
+    id="id-769b0714237644c98d4617cf738873f9">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-9b9d785f2dde47b391ae25328545e840">
+    <bounds
+        x="120"
+        y="72"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-8699d60672154cfeb8a0ea312d09c0b4.xml#id-8699d60672154cfeb8a0ea312d09c0b4"/>
+  </children>
+</archimate:ArchimateDiagramModel>
