@@ -1,0 +1,9 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Брокер идентификации"
+    id="id-c1d5dab0ca0d4db4a93649c4f965b0d3"
+    documentation="Hello world">
+  <properties
+      key="Stereotype"
+      value="Software system"/>
+</archimate:ApplicationComponent>
